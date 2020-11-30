@@ -4,7 +4,7 @@ using System.Linq;
 using System.Collections.Generic;
 
 class Cwonswole{
-  public static void wite(text){
+  public static void Wite(string text){
     Console.Write(text);
   }
 }
